@@ -59,13 +59,13 @@ The course includes:
 ## Course Structure
 
 The repository is organized by topic:
-- 01_Getting Started (1-3)
-- 02_Control Flow (4-6)
-- 03_Data Collections (7-8)
-- 04_Memory & Text (9-10)
-- 05_Data Organization (11-12)
-- 06_Object-Oriented Programming (13-15)
-- 07_ Advanced C++ (16-21)
+- 01_Getting Started
+- 02_Control Flow
+- 03_Data Collections
+- 04_Memory & Text
+- 05_Data Organization
+- 06_Object-Oriented Programming
+- 07_ Advanced C++
 
 ## How to Use This Repository
 
